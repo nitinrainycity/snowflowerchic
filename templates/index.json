@@ -1,0 +1,454 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1CE9EB53-2F3A-4E00-ADFF-698798DAB07B.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/1CE9EB53-2F3A-4E00-ADFF-698798DAB07B.jpg",
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Skin Restoring Gift Set",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "French organics with Nordic inspiration",
+            "text_size": "typeset2",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/snoeternelle",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/oj_website_2.png",
+            "image_position": "center center",
+            "text_box_position": "bottom-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Non-toxic Nail Polish",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "Eco beauty with patented ingredients",
+            "text_size": "typeset2",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/orijinal",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/use.png",
+            "image_position": "center center",
+            "text_box_position": "bottom-right",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "3 white flowers serum",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "From Provence",
+            "text_size": "typeset2",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/hemp-facial-oil",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "81e9ca1f-85fa-4ddb-8882-51c9b3e24664": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CBD62ADB-133C-47E5-B05A-343FD1C48EBF.webp",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "Give customers details about the slide image or content on the template.",
+            "text_size": "typeset",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "slide-1",
+        "slide-2",
+        "81e9ca1f-85fa-4ddb-8882-51c9b3e24664"
+      ],
+      "settings": {
+        "slideshow_type": "legacy",
+        "text_alignment": "left",
+        "image_ratio": "100vh",
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "full_width": true,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "600px",
+        "show_text_below": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#000000",
+        "colors_text": "#ffffff",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#1a1b18",
+        "colors_overlay_opacity": 0,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to the shop!",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're glad you are here. We source organic and wild harvested beauty from France, Switzerland and Belgium. Curated products are either certified organic by Ecocert, Cosmos or Natrue and\/or labeled by Slow Cosmétique. Many of our brands are small and micro businesses with a real commitment to using local ingredients or sourcing from their own organic gardens. Eco designed jars and bottles are used for a greener enviornment with less waste.<\/p><p>Come join us in finding your next favorite <a href=\"https:\/\/www-snowflowerchic-com.myshopify.com\/collections\/frontpage\" title=\"Green Beauty\"><em>green beauty product.<\/em><\/a><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7d10de31-86e9-4183-b7da-e72e771663db": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "whitening",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "disabled": true,
+      "blocks": {
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h4",
+            "text": "<p>Welcome to our store.<\/p>"
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h4",
+            "text": "<p>Welcome to our store.<\/p>"
+          }
+        },
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "recycle",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h4",
+            "text": "<p>Welcome to our store.<\/p>"
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "shield",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guarantee heading",
+            "title_size": "h4",
+            "text": "<p>Welcome to our store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bac0bd82-fd41-4145-8f98-3860ddd995ca": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17995156128053__bac0bd82-fd41-4145-8f98-3860ddd995ca-1676889369e23115f9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bioactive ingredients",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--17995156128053__bac0bd82-fd41-4145-8f98-3860ddd995ca-1676889369e23115f9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Organic face care<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--17995156128053__bac0bd82-fd41-4145-8f98-3860ddd995ca-1676889369e23115f9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/face-www-snowflowerchic-com",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17995156128053__bac0bd82-fd41-4145-8f98-3860ddd995ca-1676889369e23115f9-0",
+        "template--17995156128053__bac0bd82-fd41-4145-8f98-3860ddd995ca-1676889369e23115f9-1",
+        "template--17995156128053__bac0bd82-fd41-4145-8f98-3860ddd995ca-1676889369e23115f9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5FBB9814-E4B0-4B07-98D9-B7A5B67EE4A5.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-right",
+        "text_alignment": "right",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#fcf9f9",
+        "colors_button_background": "#212326",
+        "colors_text": "#212326",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0e1f8829-8191-448f-b230-4f3550eff812": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "lips",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bb256a26-a650-40d3-87d6-35057e020812": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17995156128053__bb256a26-a650-40d3-87d6-35057e020812-1676889369e23115f9-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Shop all products",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--17995156128053__bb256a26-a650-40d3-87d6-35057e020812-1676889369e23115f9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17995156128053__bb256a26-a650-40d3-87d6-35057e020812-1676889369e23115f9-0",
+        "template--17995156128053__bb256a26-a650-40d3-87d6-35057e020812-1676889369e23115f9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/400C1C70-86DE-456C-B12A-B65968820809.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#000000",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9b65c543-ed4e-4ebf-b7ab-fbff6f2c1c9f": {
+      "type": "featured-blog",
+      "blocks": {
+        "template--17995156128053__9b65c543-ed4e-4ebf-b7ab-fbff6f2c1c9f-1676889763178a4c69-0": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": false
+          }
+        },
+        "template--17995156128053__9b65c543-ed4e-4ebf-b7ab-fbff6f2c1c9f-1676889763178a4c69-1": {
+          "type": "summary",
+          "settings": {
+          }
+        },
+        "template--17995156128053__9b65c543-ed4e-4ebf-b7ab-fbff6f2c1c9f-1676889763178a4c69-2": {
+          "type": "read_more",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17995156128053__9b65c543-ed4e-4ebf-b7ab-fbff6f2c1c9f-1676889763178a4c69-0",
+        "template--17995156128053__9b65c543-ed4e-4ebf-b7ab-fbff6f2c1c9f-1676889763178a4c69-1",
+        "template--17995156128053__9b65c543-ed4e-4ebf-b7ab-fbff6f2c1c9f-1676889763178a4c69-2"
+      ],
+      "settings": {
+        "blog": "news",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Blog",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9fdcdb06-2e9a-4226-a1fb-fbac69aad58a": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/snapppt.com\/widgets\/widget_loader\/0b0265d5-0fd0-43e3-a5c7-d82b58a29d41\/carousel.js\" defer class=\"snapppt-widget\"><\/script>",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich-text-0",
+    "7d10de31-86e9-4183-b7da-e72e771663db",
+    "guarantees",
+    "bac0bd82-fd41-4145-8f98-3860ddd995ca",
+    "0e1f8829-8191-448f-b230-4f3550eff812",
+    "bb256a26-a650-40d3-87d6-35057e020812",
+    "9b65c543-ed4e-4ebf-b7ab-fbff6f2c1c9f",
+    "9fdcdb06-2e9a-4226-a1fb-fbac69aad58a"
+  ]
+}
