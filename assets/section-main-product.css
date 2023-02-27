@@ -1780,7 +1780,22 @@ product-gallery .product__media-toggle {
 .gallery-cursor {
   display: none;
 }
-
+.icons_list {
+    width: 100%;
+}
+.icons_list ul {
+    display: inline-block;
+    padding-left: 0;
+    list-style: outside none;
+}
+.icons_list ul li {
+    width: 25%;
+    float: left;
+    padding: 0 5px;
+}
+.icons_list ul li img {
+    width: 100%;
+}
 @media screen and (min-width: 990px) {
   .gallery-cursor {
     display: flex;
