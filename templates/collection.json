@@ -136,7 +136,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<script src=\"https:\/\/snapppt.com\/widgets\/widget_loader\/0b0265d5-0fd0-43e3-a5c7-d82b58a29d41\/carousel.js\" defer class=\"snapppt-widget\"><\/script>",
-        "full_width": false,
+        "full_width": true,
         "show_divider": false,
         "padding_top": 36,
         "padding_bottom": 36
