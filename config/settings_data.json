@@ -128,6 +128,7 @@
         "blocks": {
           "8811956b-43ce-4270-a6d7-0a2ad8f70c98": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "main-menu"
@@ -136,7 +137,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Shop",
+              "heading": "",
               "menu": "footer"
             }
           }
