@@ -126,6 +126,16 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "e66419b5-2597-4cfa-b875-9375c1ee1b33": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SFC-logo-002-v2-a_d51ae5c4-4d92-467a-a1c0-f114c6517ceb.png",
+              "image_width": 100,
+              "alignment": "left",
+              "link": "",
+              "text": ""
+            }
+          },
           "8811956b-43ce-4270-a6d7-0a2ad8f70c98": {
             "type": "link_list",
             "settings": {
@@ -142,6 +152,7 @@
           }
         },
         "block_order": [
+          "e66419b5-2597-4cfa-b875-9375c1ee1b33",
           "8811956b-43ce-4270-a6d7-0a2ad8f70c98",
           "footer-0"
         ],
