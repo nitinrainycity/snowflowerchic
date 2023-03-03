@@ -442,38 +442,18 @@
     "aedd6412-9837-4784-b627-5995ed057f97": {
       "type": "shop-the-look",
       "blocks": {
-        "template--18144397984053__aedd6412-9837-4784-b627-5995ed057f97-167785356509a95e6e-0": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "color": "#000000",
-            "horizontal": 30,
-            "vertical": 40
-          }
-        },
         "template--18144397984053__aedd6412-9837-4784-b627-5995ed057f97-167785356509a95e6e-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "mon-huile-precieux",
             "color": "#000000",
             "horizontal": 70,
             "vertical": 45
           }
-        },
-        "template--18144397984053__aedd6412-9837-4784-b627-5995ed057f97-167785356509a95e6e-2": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "color": "#000000",
-            "horizontal": 45,
-            "vertical": 65
-          }
         }
       },
       "block_order": [
-        "template--18144397984053__aedd6412-9837-4784-b627-5995ed057f97-167785356509a95e6e-0",
-        "template--18144397984053__aedd6412-9837-4784-b627-5995ed057f97-167785356509a95e6e-1",
-        "template--18144397984053__aedd6412-9837-4784-b627-5995ed057f97-167785356509a95e6e-2"
+        "template--18144397984053__aedd6412-9837-4784-b627-5995ed057f97-167785356509a95e6e-1"
       ],
       "settings": {
         "layout": "image_first",
