@@ -269,3 +269,11 @@
     padding-bottom: 3rem;
   }
 }
+
+/* new css 06-03-2023 */
+.video_look {
+    line-height: 0px;
+}
+.video_look video {
+    width: 100%;
+}

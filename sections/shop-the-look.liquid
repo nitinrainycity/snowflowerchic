@@ -33,6 +33,14 @@
         <div class="grid__item">
           <lookbook-component class="lookbook">
             <use-animate data-animate="zoom-fade-small" class="shop-the-look__content media-wrapper">
+            {% if section.settings.video != blank %}
+              <div class="video_look">
+              <video width="400" controls>
+                <source src="{{ section.settings.video }}" type="video/mp4">
+                <source src="{{ section.settings.video }}" type="video/ogg">
+               </video>
+              </div>
+              {% else %}
               <div class="image-animate media--adapt{% if section.settings.image != blank %} media{% else %} lookbook--placeholder{% endif %}">
                 {%- if section.settings.image != blank -%}
                   {%- capture sizes -%}(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px, (min-width: 750px) calc((100vw - 10rem) / 2),{% if section.settings.full_width %} 100vw{% else %} calc(100vw - 3rem){% endif %}{%- endcapture -%}
@@ -44,9 +52,10 @@
                     is: 'lazy-image'
                   }}
                 {%- else -%}
-                  {{ 'collection-1' | placeholder_svg_tag: 'placeholder' }}
+                {{ 'collection-1' | placeholder_svg_tag: 'placeholder' }}
                 {%- endif -%}
               </div>
+              {% endif %}
               {%- for block in section.blocks -%}
                 {%- assign card_product = block.settings.product -%}
                 {%- if card_product != blank -%}
@@ -59,6 +68,8 @@
                         </div>
                       </a>
                     </noscript>
+                    {% if section.settings.video != blank %}
+                    {% else %}
                     <quick-view-drawer>
                       <details>
                         <summary class="quick-view__summary" tabindex="-1">
@@ -75,6 +86,7 @@
                         </quick-view>
                       </details>
                     </quick-view-drawer>
+                    {% endif %}
                   {%- else -%}
                     <a data-block-index="{{ forloop.index0 }}" href="{{ card_product.url }}" class="look__hotspot" style="--hotspot-color: {{ block.settings.color.red }}, {{ block.settings.color.green }}, {{ block.settings.color.blue }}; --hotspot-x: {{ block.settings.horizontal }}%; --hotspot-y: {{ block.settings.vertical }}%;" {{ block.shopify_attributes }}>
                       <div class="look__hotspot-product{% if block.settings.horizontal < 15 %} look__hotspot-product--left{% elsif block.settings.horizontal > 85 %} look__hotspot-product--right{% endif %}{% if block.settings.vertical > 70 %} look__hotspot-product--bottom{% endif %}">
@@ -142,6 +154,11 @@
       "type": "image_picker",
       "id": "image",
       "label": "t:sections.all.image.label"
+    },
+    {
+      "type": "text",
+      "id": "video",
+      "label": "Mp4 Video Url"
     },
     {
       "type": "select",
