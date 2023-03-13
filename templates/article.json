@@ -6,7 +6,7 @@
         "featured_image": {
           "type": "featured_image",
           "settings": {
-            "image_height": "medium"
+            "image_height": "adapt"
           }
         },
         "breadcrumb": {
@@ -32,6 +32,7 @@
         "share": {
           "type": "share",
           "settings": {
+            "share_label": "Share"
           }
         },
         "back_to_blog": {
@@ -82,6 +83,8 @@
         "show_divider": false,
         "heading": "You may also like",
         "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "show_image": true,
