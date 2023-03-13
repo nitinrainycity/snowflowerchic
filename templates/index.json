@@ -311,7 +311,7 @@
     "0e1f8829-8191-448f-b230-4f3550eff812": {
       "type": "featured-collection",
       "settings": {
-        "collection": "lips",
+        "collection": "frontpage",
         "products_to_show": 4,
         "show_view_all": true,
         "show_divider": false,
